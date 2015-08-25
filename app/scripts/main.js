@@ -1,1 +1,4 @@
-console.log('\'Allo \'Allo!');
+
+var StudyView = {
+  application: Box.Application
+};
